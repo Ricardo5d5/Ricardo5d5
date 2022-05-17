@@ -1,5 +1,7 @@
 ### Hello, I'm Ricardo Santos 👋
 
+🌱 I'm studying Big Data Technology in Agribusiness at the Pompeia College of Technology (Shunji Nishimura-FATEC Pompeia).
+
 <!--
 **Ricardo5d5/Ricardo5d5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
