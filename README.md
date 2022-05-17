@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, I'm Ricardo Santos 👋
 
 <!--
 **Ricardo5d5/Ricardo5d5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
