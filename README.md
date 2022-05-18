@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <div align="center">
   <table>
     <tr>
-      <th>
+      <td>
         <a href="https://github.com/Ricardo5d5">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ricardo5d5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;"/>
-      </th>
-      <th>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo5d5&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;"/>
-      </th>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ricardo5d5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo5d5&layout=compact&langs_count=7&theme=dracula"/>
+      </td>
     </tr>
   </table>
 </div>
