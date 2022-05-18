@@ -1,4 +1,4 @@
-## Hello, I'm Ricardo Santos ########################################################## 👋
+## Hello, I'm Ricardo Santos ################################# 👋
 
 🌱 I'm studying Big Data Technology in Agribusiness at the Pompeia College of Technology (Shunji Nishimura-FATEC Pompeia).
 
