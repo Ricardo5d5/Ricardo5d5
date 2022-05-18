@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <table>
+  <a href="https://github.com/Ricardo5d5">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ricardo5d5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo5d5&layout=compact&langs_count=7&theme=dracula"/>
+  <!--table>
     <tr>
       <td>
         <a href="https://github.com/Ricardo5d5">
@@ -28,7 +31,7 @@ Here are some ideas to get you started:
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo5d5&layout=compact&langs_count=7&theme=dracula"/>
       </td>
     </tr>
-  </table>
+  </table-->
 </div>
 
 <div style="display: inline_block"><br>
