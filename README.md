@@ -1,4 +1,4 @@
-## Hello, I'm Ricardo Santos ################################# 👋
+## Hello, I'm Ricardo Santos, criadora de conteúdo de programação e tecnologia! 👋
 
 🌱 I'm studying Big Data Technology in Agribusiness at the Pompeia College of Technology (Shunji Nishimura-FATEC Pompeia).
 
